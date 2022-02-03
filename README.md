@@ -7,5 +7,4 @@ conditionally with profiles.
 You can change the sharpening strength by changing the `param` value.
 
 If you place this shader in the same folder as your `mpv.conf`,
-you can use it with
-`glsl-shaders-append="~~/unsharp_masking.glsl"`.
+you can use it with `glsl-shaders-append="~~/unsharp_masking.glsl"`.
