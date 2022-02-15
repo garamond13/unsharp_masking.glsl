@@ -1,6 +1,7 @@
+//!DESC unsharp masking
 //!HOOK SCALED
 //!BIND HOOKED
-//!DESC unsharp masking
+//!WHEN NATIVE_CROPPED.h OUTPUT.h <
 
 #define param 0.5 //sharpening strenght
 
